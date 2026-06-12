@@ -1,2 +1,1 @@
-# Mary07
-BTC
+bybit
