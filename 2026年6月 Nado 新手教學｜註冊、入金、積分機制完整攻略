@@ -1,0 +1,102 @@
+# 2026年6月 Nado 新手教學｜註冊、入金、積分機制完整攻略
+# June 2026 Nado Beginner's Guide｜Registration, Deposit & Points System
+
+> **官方邀請連結 / Official Invite Link:**
+> https://app.nado.xyz/?join=qp0fptC
+>
+> **邀請碼 / Invite Code:**
+> `qp0fptC`
+
+---
+
+## 💡 核心提示 / Core Tips
+最近線上交易平台越來越受到市場關注，而 Nado 可以說是近期討論度相當高的新一代 Onchain Prime Brokerage。很多人開始使用 Nado 是為了累積 **Nado Points (積分)**，為未來生態獎勵做準備。
+*Recently, on-chain trading platforms have gained significant market attention. Nado stands out as a highly discussed next-gen Onchain Prime Brokerage. Many users join Nado to accumulate **Nado Points** in preparation for future ecosystem rewards.*
+
+---
+
+## 第一步：連接錢包 / Step 1: Connect Wallet
+Nado 不需要 Email 或手機號碼，直接透過錢包登入。
+*Nado does not require email or phone number registration; simply log in via your Web3 wallet.*
+
+1. 進入官網，點擊 **[Connect Wallet]**。
+2. 支援 OKX Wallet, MetaMask, Rabby, WalletConnect 等主流 EVM 錢包。
+3. 完成 **EIP-712 簽名**（這是登入驗證，非轉帳，不會扣款）。
+*1. Visit the official site and click **[Connect Wallet]**. 2. Supports OKX Wallet, MetaMask, Rabby, WalletConnect, etc. 3. Complete the **EIP-712 Signature** (this is for login verification, NOT a transaction, and costs no gas/funds).*
+
+---
+
+## 第二步：充值資產 / Step 2: Deposit Assets
+首次使用建議先轉入少量資金測試。
+*It is recommended to transfer a small amount for testing on your first try.*
+
+*   **主要資產 / Primary Assets:** USDT, ETH
+*   **路徑 / Path:** 點擊 App 內的 **[Deposit]** 按鈕。
+*   **來源 / Source:** 可從 Binance, Bybit, OKX, Bitget 等交易所鏈上轉帳過來。
+*   **注意 / Note:** 請務必備份好錢包的助記詞，不要截圖或存於雲端。
+*   *Make sure to back up your wallet's seed phrase securely. Do not screenshot it or store it in the cloud.*
+
+---
+
+## 核心功能介紹 / Core Features
+
+### 1. Unified Margin (統一保證金)
+Nado 的一大特色。Spot 現貨與 Perpetual 永續合約共享同一個保證金池，無需反覆轉帳。
+*A key feature of Nado. Spot and Perpetual positions share the same collateral pool, eliminating the need for constant internal transfers.*
+
+### 2. Spot 現貨交易
+路徑：**Trade → Spot**。支援 Market (市價) 與 Limit (限價) 下單。
+*Path: **Trade → Spot**. Supports Market and Limit orders.*
+
+### 3. Perpetual 永續合約
+路徑：**Trade → Perpetual**。支援多空雙向交易。**新手建議使用低槓桿。**
+*Path: **Trade → Perpetual**. Supports long/short positions. **Beginners are advised to use low leverage.***
+
+### 4. xStocks (代幣化股票)
+Nado 的熱門板塊，例如 xAAPL, xTSLA, xNVDA。
+*Nado's popular sector, e.g., xAAPL, xTSLA, xNVDA.*
+*   **發行方 / Issuer:** Backed Finance
+*   **性質 / Nature:** 這是代幣化股票 (Tokenized Stocks)，**並非**直接持有美股，沒有投票權，但可享受鏈上交易的便利。
+*   *These are tokenized stocks, **NOT** direct ownership of US stocks. They carry no voting rights but offer the convenience of on-chain trading.*
+
+---
+
+## Nado Points (積分) 機制 / Points Mechanism
+
+### 什麼是 Nado Points? / What are Nado Points?
+官方根據用戶的交易量和資金使用情況發放的積分，具體兌換規則尚未公布，請關注官方公告。
+*Points distributed by the official team based on user activity. Specific redemption rules are TBA (To Be Announced). Please follow official announcements.*
+
+### 如何累積? / How to Accumulate?
+✅ 保持資產在平台 / Keep assets on the platform
+✅ Spot 現貨交易 / Spot Trading
+✅ Perpetual 永續交易 / Perpetual Trading
+✅ 使用 Money Market / Using Money Market
+
+> **💡 建議 / Tip:** 不建議為了刷分而進行高頻交易，自然使用平台更能有效控制成本。
+> *Avoid high-frequency trading solely for points; natural usage helps control costs.*
+
+---
+
+## 常見問題 FAQ / Frequently Asked Questions
+
+**Q: EIP-712 簽名會扣錢嗎？**
+A: 不會。這只是登入驗證，不涉及資產轉移。
+*No. It is only for login verification and does not involve asset transfers.*
+
+**Q: xStocks 是真的股票嗎？**
+A: 不是。它是追蹤股價的合成資產/代幣化股票，不具備真實股票的所有權。
+*No. They are synthetic assets/tokenized stocks tracking prices, not conferring real stock ownership.*
+
+**Q: 邀請碼有期限嗎？**
+A: 建議在 2026 年內使用以確保享有最新的新戶福利。
+*Recommended to use within 2026 to ensure eligibility for the latest new-user benefits.*
+
+---
+
+## 🚀 立即開始 / Get Started Now
+👉 **[點擊這裡使用邀請碼註冊 Nado](https://app.nado.xyz/?join=qp0fptC)**
+👉 **[Register Nado with Invite Code](https://app.nado.xyz/?join=qp0fptC)**
+
+> **風險提示 / Risk Warning:** 數位資產價格波動劇烈，本文僅供參考，不構成投資建議。
+> *Digital asset prices are highly volatile. This article is for reference only and does not constitute investment advice.*
